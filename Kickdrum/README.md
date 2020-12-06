@@ -1,6 +1,6 @@
 # Kickdrum 
 
-Similar to the tr-808 twin-t kickdrum.
+Similar to the tr-808 twin-t kickdrum, but powered by a single 9V battery.
 
 ## Description
 
