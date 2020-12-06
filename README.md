@@ -1,3 +1,3 @@
 # Drums
 
-Some drumvoices running off 9V batteries. First one is a kickdrum.
+Some drumvoices running off 9V batteries. More information in 2021 :)
